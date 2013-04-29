@@ -1,0 +1,69 @@
+Zeblife Test Account:
+U: jenifersmith
+P: jenifersmith
+
+Krayno WishList:
+
+1. We'll do Profile Themes on our next versions
+	* Create Profile themes which we could assign for every user
+2. When we reset a user's password, system creates the password and send to user's registered email for validation.
+	
+-----------
+
+and the values/logs/records have separate table as well. tama po
+
+ianfulgar: when we create fields dapat pwede nateng ma-assign into groups. sana. Pero isa pa din yung user_info table kahit may groupings.
+ianfulgar: For example, admin can create a "Work" group and assign created fields like "Phone", "URL", etc.
+
+----------------------------------
+
+ianfulgar: Yung question regarding Click Count is to monitor clicks on a content (Tile) which is different from monitoring User visit. Just checking this early in the development if worth considering or not.
+kirby_creatingskies: Noted Sir. I think we can still use the simPHP, but I will find  other better ways for this. Are there any restrictions that I have to consider?
+ianfulgar: Yes, would like if the count uses POST/GET of not and is any User will be able to fabricate the count by changing the pair value set.
+ianfulgar: would like to know*
+ianfulgar: sorry, magulo. ulit:
+ianfulgar: Yes, would like to know if the count uses POST/GET or not and if any User will be able to fabricate the count by changing the pair value set.
+ianfulgar: User should not be able to fabricate counts.
+kirby_creatingskies: We can use POST/GET, I am actually thinking of using AJAX for this  but I will try to find better ways po. 
+kirby_creatingskies: User should not be able to fabricate counts. - Noted Sir.
+
+------------------------------
+
+http://www.laktek.com/2008/10/27/really-simple-color-picker-in-jquery/
+
+-------------------------------------------
+
+http://stylishwebdesigner.com/6-best-jquery-color-picker-plugins/
+
+ianfulgar: hi kirby. may link ka ba to show?
+kirby_creatingskies: Meronpo.
+kirby_creatingskies: Simple Color Picker: http://www.laktek.com/2008/10/27/really-simple-color-picker-in-jquery/
+kirby_creatingskies: Same way you select color in as Adobe Photoshop: http://www.eyecon.ro/colorpicker/#about 
+ianfulgar: Ang naimagine ko kasi may set of colors (18 color theme picked by admin) tulad nung nasa laktek. 
+Then may button lang sa baba which says "more color" which pag naclick mo yun slides out a colorpicker like the jquery plugin.
+ianfulgar: of course admin uses the jquery colorpicker para i-set yung 18 colors nya to save as a theme.
+kirby_creatingskies: Ahh.. Sige po, pag iisipan ko po muna pano ko gagawin to. Actually yung colors po sa Simple Color Picker based sa nabasa ko pwede siya mabago so sa tingin ko possible naman na macontrol siya ni admin.
+ianfulgar: kapag "Allow Users More Colors" is set to off, then hanggang yung 18 colors lang ang pwedeng piliin ng User.
+kirby_creatingskies: Noted po.
+ianfulgar: *kapag "Allow Users More Colors" is set to off sa dashboard
+ianfulgar: PERO -
+ianfulgar: paki isipan nalang ng mas magandang label other than "Allow Users More Colors". baka may maisip kang mas bagay na label.
+kirby_creatingskies: Noted Sir. Thanks.
+ianfulgar: Thanks.
+
+
+
+>> more color
+
+
+---------------------
+	1. Invite users (by group)
+2. User's connection
+3. Color palettes
+	a. http://www.laktek.com/2008/10/27/really-simple-color-picker-in-jquery/
+	b. http://www.eyecon.ro/colorpicker/#about
+		
+
+
+
+
